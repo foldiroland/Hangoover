@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Heloka</h1>
+
+
+<?php
+
+?>    
 </body>
 </html>
