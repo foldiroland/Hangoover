@@ -1,5 +1,5 @@
 body{
-    color: #fff;
+    background-color: #565656;
     height: 100vh;
     width: auto;
     margin: 0;
@@ -11,12 +11,67 @@ body{
     justify-content: center;
     flex-direction: row;
 }
-.left{
+.Hangoover{
     width: 20%;
     height: 100%;
-    background: red;
+    background: #4B4B4B;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
 }
-.right{
-    width: 80%;
-    background: blue;
+
+
+.Hangoover h1{
+    color: #fff;
+    font-size: 80px;
+}
+.Hangoover h3{
+    color: #fff;
+    font-size: 65px;
+}
+.Hangoover p{
+    color: #fff;
+    font-size: 50px;
+}
+
+.taskInfo{
+    width: 600px;
+}
+
+.HangooverBack{
+    width: 80%;;
+    background-image: url(hngo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2600px;
+    text-align: center;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#label1{
+    color: #fff;
+    font-size: 100px;
+    letter-spacing: 40px;
+}
+
+.cock{
+
+border-color: greenyellow;
+
+
+
+}
+
+th{
+    height: 180px;
+    width: 195px;
+    padding: 10px;
+    
+}
+
+#cell{
+    background: red;
 }
