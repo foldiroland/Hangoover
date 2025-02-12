@@ -35,6 +35,11 @@ A játék célja, hogy a játékosok végigmenjenek a pályán, miközben külö
 
 
 
+
+
+
+
+
 ⚠️ Különleges mezők:
 
 🛑 STOP mezők: Itt meg kell állni, és végrehajtani a megadott feladatot.
