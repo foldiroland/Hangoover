@@ -15,11 +15,11 @@
                 <div class="taskInfo">
                     <h1>Current task: </h1>
                     <h3 id="taskName">Brand Ring</h3>
-                    <p id="task">Everyone says a brand,who can’t, has to drink a sip</p>
+                    <p id="task">Everyone says a brand, who can’t, has to drink a sip</p>
                 </div>
                 <div class="navigate">
                     <br><br><br><br><br>
-                    <button id="dice"><img src="dice.png" width="200px"></button>
+                    <button id="dice" onclick="<?php step();?>"><img src="dice.png" width="200px"></button>
                 </div>
                 
                 
@@ -32,7 +32,7 @@
                 
                         <!-- 1 sor -->
                 <tr>
-                    <th id="cell" id="1"></th>
+                    <th id="cell" id="1"><img src="player.png" alt="player"></th>
                     <th></th>
                     <th id="cell" id="2"></th>
                     <th id="cell" id="3"></th>
@@ -88,45 +88,45 @@
                 </tr>
                         <!-- 5 sor -->
                 <tr>
-                    <th id="cell" id="26">sdedfcfljkdfsglkfdb</th>
+                    <th id="cell" id="26"></th>
                     <th></th>
-                    <th id="cell" id="27">awrdwadfawdwa</th>
+                    <th id="cell" id="27"></th>
                     <th></th>
-                    <th id="cell" id="28">awrdwadfawdwa</th>
+                    <th id="cell" id="28"></th>
                     <th></th>
-                    <th id="cell" id="29">awrdwadfawdwa</th>
+                    <th id="cell" id="29"></th>
                     <th></th>
-                    <th id="cell" id="30">awrdwadfawdwa</th>
+                    <th id="cell" id="30"></th>
                     <th></th>
-                    <th id="cell" id="31">awrdwadfawdwa</th>
+                    <th id="cell" id="31"></th>
                 </tr>
                         <!-- 6 sor -->
                 <tr>
-                    <th id="cell" id="32">sdedfcfljkdfsglkfdb</th>
+                    <th id="cell" id="32"></th>
                     <th></th>
-                    <th id="cell" id="33">awrdwadfawdwa</th>
+                    <th id="cell" id="33"></th>
                     <th></th>
-                    <th id="cell" id="34">awrdwadfawdwa</th>
+                    <th id="cell" id="34"></th>
                     <th></th>
-                    <th id="cell" id="35">awrdwadfawdwa</th>
+                    <th id="cell" id="35"></th>
                     <th></th>
-                    <th id="cell" id="36">awrdwadfawdwa</th>
+                    <th id="cell" id="36"></th>
                     <th></th>
-                    <th id="cell" id="37">awrdwadfawdwa</th>
+                    <th id="cell" id="37"></th>
                 </tr>
                         <!-- 7 sor -->
                 <tr>
-                    <th id="cell" id="38">sdedfcfljkdfsglkfdb</th>
-                    <th id="cell" id="39">dxaeswfwerew</th>
-                    <th id="cell" id="40">awrdwadfawdwa</th>
+                    <th id="cell" id="38"></th>
+                    <th id="cell" id="39"></th>
+                    <th id="cell" id="40"></th>
                     <th></th>
-                    <th id="cell" id="41">awrdwadfawdwa</th>
-                    <th id="cell" id="42">awrdwadfawdwa</th>
-                    <th id="cell"id="43">awrdwadfawdwa</th>
+                    <th id="cell" id="41"></th>
+                    <th id="cell" id="42"></th>
+                    <th id="cell"id="43"></th>
                     <th></th>
-                    <th id="cell"id="44">awrdwadfawdwa</th>
-                    <th id="cell"id="45">awrdwadfawdwa</th>
-                    <th id="cell"id="46">awrdwadfawdwa</th>
+                    <th id="cell"id="44"></th>
+                    <th id="cell"id="45"></th>
+                    <th id="cell"id="46"></th>
                 </tr>                
             </table>
             
@@ -135,3 +135,25 @@
     
 </body>
 </html>
+
+<?php
+
+function step(){
+    $stepNumber = rand(1,6);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?>
