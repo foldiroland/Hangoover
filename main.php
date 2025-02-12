@@ -10,8 +10,11 @@
     <div class="content">
         <div class="Hangoover">
                 <img src="" alt="">
+                <h1>bal oldal</h1>
         </div>
-        <div class="HangooverBack" id=""></div>
+        <div class="HangooverBack" id="">
+            <h1>Jobb oldal</h1>
+        </div>
     </div>
     
 </body>
