@@ -19,7 +19,7 @@
                 </div>
                 <div class="navigate">
                     <br><br><br><br><br>
-                    <button id="dice" onclick="<?php step();?>"><img src="dice.png" width="200px"></button>
+                    <button id="dice"><img src="dice.png" id="" width="200px"></button>
                 </div>
                 
                 
@@ -32,116 +32,114 @@
                 
                         <!-- 1 sor -->
                 <tr>
-                    <th id="cell" id="1"><img src="player.png" alt="player"></th>
+                    <th id="cell"><img id="1" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="2"></th>
-                    <th id="cell" id="3"></th>
-                    <th id="cell" id="4"></th>
+                    <th id="cell"><img id="2" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="3" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="4" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="5"></th>
+                    <th id="cell"><img id="5" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="6"></th>
+                    <th id="cell"><img id="6" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="7"></th>
+                    <th id="cell"><img id="7" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 2 sor -->
                 <tr>
-                    <th id="cell" id="8"></th>
+                    <th id="cell" ><img id="8" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="9"></th>
+                    <th id="cell" ><img id="9" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="10"></th>
+                    <th id="cell" ><img id="10"src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="11"></th>
+                    <th id="cell" ><img id="11"src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="12"></th>
+                    <th id="cell" ><img id="12"src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="13"></th>
+                    <th id="cell" ><img id="13"src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 3 sor -->
                 <tr>
-                    <th id="cell" id="14"></th>
+                    <th id="cell" ><img id="14" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="15"></th>
+                    <th id="cell" ><img id="15" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="16"></th>
+                    <th id="cell" ><img id="16" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="17"></th>
+                    <th id="cell" ><img id="17" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="18"></th>
+                    <th id="cell" ><img id="18" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="19"></th>
+                    <th id="cell" ><img id="19" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 4 sor -->
                 <tr>
-                    <th id="cell" id="20"></th>
+                    <th id="cell" ><img id="20" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="21"></th>
+                    <th id="cell" ><img id="21" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell"  id="22"></th></th>
+                    <th id="cell" ><img id="22" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="23"></th>
+                    <th id="cell" ><img id="23" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="24"></th>
+                    <th id="cell" ><img id="24" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="25"></th>
+                    <th id="cell" ><img id="25" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 5 sor -->
                 <tr>
-                    <th id="cell" id="26"></th>
+                    <th id="cell" id="26"><img id="26" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="27"></th>
+                    <th id="cell" id="27"><img id="27" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="28"></th>
+                    <th id="cell" id="28"><img id="28" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="29"></th>
+                    <th id="cell" id="29"><img id="29" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="30"></th>
+                    <th id="cell" id="30"><img id="30" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="31"></th>
+                    <th id="cell" id="31"><img id="31" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 6 sor -->
                 <tr>
-                    <th id="cell" id="32"></th>
+                    <th id="cell" ><img id="32" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="33"></th>
+                    <th id="cell" ><img id="33" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="34"></th>
+                    <th id="cell" ><img id="34" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="35"></th>
+                    <th id="cell" ><img id="35" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="36"></th>
+                    <th id="cell" ><img id="36" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="37"></th>
+                    <th id="cell" ><img id="37" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 7 sor -->
                 <tr>
-                    <th id="cell" id="38"></th>
-                    <th id="cell" id="39"></th>
-                    <th id="cell" id="40"></th>
+                    <th id="cell"><img id="38" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="39" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="40" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="41"></th>
-                    <th id="cell" id="42"></th>
-                    <th id="cell"id="43"></th>
+                    <th id="cell"><img id="41" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="42" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="43" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell"id="44"></th>
-                    <th id="cell"id="45"></th>
-                    <th id="cell"id="46"></th>
+                    <th id="cell"><img id="44" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="45" src="tbg.png" alt=""></th>
+                    <th id="cell"></th>
                 </tr>                
             </table>
             
         </div>
     </div>
-    
+
+    <script src="script.js"></script>
 </body>
 </html>
 
 <?php
 
-function step(){
-    $stepNumber = rand(1,6);
 
-}
 
 
 
