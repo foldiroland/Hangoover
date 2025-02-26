@@ -4,7 +4,7 @@ const dice = document.getElementById("dice");
 dice.onclick = ()=>{step();}
 
 function step(){
-    var stepNumber = rand(1,6);
+    var stepNumber = rand(6);
         currentPlace = stepNumber;
         
         if (currentPlace == stepNumber)

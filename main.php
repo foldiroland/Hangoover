@@ -38,7 +38,7 @@
                     <th id="cell"><img id="3" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="4" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell"><img id="5" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="#" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="5" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="6" src="tbg.png" alt=""></th>
                     <th></th>
@@ -46,7 +46,7 @@
                 </tr>
                         <!-- 2 sor -->
                 <tr>
-                    <th id="cell" ><img id="8" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="2" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell" ><img id="9" src="tbg.png" alt=""></th>
                     <th></th>
@@ -60,7 +60,7 @@
                 </tr>
                         <!-- 3 sor -->
                 <tr>
-                    <th id="cell" ><img id="14" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="3" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell" ><img id="15" src="tbg.png" alt=""></th>
                     <th></th>
@@ -74,7 +74,7 @@
                 </tr>
                         <!-- 4 sor -->
                 <tr>
-                    <th id="cell" ><img id="20" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="4" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell" ><img id="21" src="tbg.png" alt=""></th>
                     <th></th>
@@ -88,21 +88,21 @@
                 </tr>
                         <!-- 5 sor -->
                 <tr>
-                    <th id="cell" id="26"><img id="26" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="5" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="27"><img id="27" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="27" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="28"><img id="28" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="28" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="29"><img id="29" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="29" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="30"><img id="30" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="30" src="tbg.png" alt=""></th>
                     <th></th>
-                    <th id="cell" id="31"><img id="31" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="31" src="tbg.png" alt=""></th>
                 </tr>
                         <!-- 6 sor -->
                 <tr>
-                    <th id="cell" ><img id="32" src="tbg.png" alt=""></th>
+                    <th id="cell" ><img id="6" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell" ><img id="33" src="tbg.png" alt=""></th>
                     <th></th>
@@ -116,7 +116,7 @@
                 </tr>
                         <!-- 7 sor -->
                 <tr>
-                    <th id="cell"><img id="38" src="tbg.png" alt=""></th>
+                    <th id="cell"><img id="7" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="39" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="40" src="tbg.png" alt=""></th>
                     <th></th>
