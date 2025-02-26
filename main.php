@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="stylee.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Hangoover</title>
 </head>
 <body>
     <div class="content">
@@ -28,7 +28,7 @@
         
         <!-- 41 cella van tehát 41 lépés érhető el  -->
 
-            <table class="cock" border="0px">
+            <table >
                 
                         <!-- 1 sor -->
                 <tr>
@@ -39,7 +39,7 @@
                     <th id="cell"><img id="4" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell"><img id="5" src="tbg.png" alt=""></th>
-                    <th></th>
+                    <th id="cell"><img id="5" src="tbg.png" alt=""></th>
                     <th id="cell"><img id="6" src="tbg.png" alt=""></th>
                     <th></th>
                     <th id="cell"><img id="7" src="tbg.png" alt=""></th>

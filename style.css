@@ -4,6 +4,7 @@ body{
     width: auto;
     margin: 0;
 }
+/* #565656 */
 .content{
     width: 100%;
     height: 100%;
@@ -23,7 +24,7 @@ body{
 
 
 .Hangoover h1{
-    color: #fff;
+    color: #ffffff;
     font-size: 80px;
 }
 .Hangoover h3{
@@ -44,37 +45,31 @@ body{
     background-image: url(hngo.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 2600px;
+    background-size: cover;
     text-align: center;    
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
+
 #label1{
     color: #fff;
     font-size: 100px;
     letter-spacing: 40px;
 }
-
-.cock{
-
-border-color: greenyellow;
-
-
-
-}
-
-th{
-    height: 180px;
-    width: 195px;
-    padding: 10px;
-    
-}
-
 #cell{
-    background: rgba(255, 0, 0, 0.285);
+    background-color: #e7131359;
+    width: 30px;
+}
+#cell img{
+    width: 100px;
 }
 .show img{
     display: block;
 }
+table th{
+    width: 400px;
+    height: 250px;
+}
+
